@@ -86,7 +86,7 @@ s\alpha c\beta & s\alpha s\beta s\gamma + c\alpha c\gamma & s\alpha s\beta c\gam
 r_{11} & r_{12} & r_{13} \\
 r_{21} & r_{22} & r_{23} \\
 r_{31} & r_{32} & r_{33} \\
-\end{bmatrix}
+\end{bmatrix}
 $$
 
 ![solution](C:\Users\EvanWong\Desktop\nao211\机器人学\2.Fixed_Angles&Euler_Angles\images\beta.png "solution")
