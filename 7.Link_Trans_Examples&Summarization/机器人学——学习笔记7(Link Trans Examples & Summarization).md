@@ -76,18 +76,18 @@ Joint Space: 有多少驱动关节，有多少自由度。
 $$
 \dot{\xi} =
 \begin{bmatrix}
-	\dot{\theta} \\
-	\dot{\gamma} \\
+\dot{\theta} \\
+\dot{\gamma} \\
 \end{bmatrix}
-= 
+=
 \begin{bmatrix}
-	1 & 0 \\
-	-p & p \\
+1 & 0 \\
+-p & p \\
 \end{bmatrix}
 \begin{bmatrix}
-	\dot{\phi_{1}} \\
-	\dot{\phi_{2}} \\
+\dot{\phi_{1}} \\
+\dot{\phi_{2}} \\
 \end{bmatrix}
 $$
 
-其中:$$ [\theta^{'}, \gamma^{'}]^{T} $$ 为Joint Space，$$ [\phi_{1}^{'}, \phi_{2}^{'}]^{T} $$为Actuator Space**，这是一个经典的Actuator Space ↔ Joint Space转换的例子**。
+其中:$$ [\theta^{'}, \gamma^{'}]^{T} $$ 为Joint Space，$$ [\phi_{1}^{'}, \phi_{2}^{'}]^{T} $$为Actuator Space**，这是一个经典的Actuator Space ↔ Joint Space转换的例子**
