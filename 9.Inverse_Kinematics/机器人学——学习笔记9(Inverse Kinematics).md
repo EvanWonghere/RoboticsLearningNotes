@@ -35,7 +35,8 @@ $$
 ^{0}_{6}T = 
 {\left[\begin{array}{c : c}
 ^{0}_{6}R_{\hspace{0.4em}_{3\times 3}} & ^{0}P_{6 \hspace{0.4em} org_{\hspace{0.4em} 3 \times 3}} \\
-0 \hspace{0.8em} 0 \hspace{0.8em} & 1 \\
+\hdashline
+\hspace{0.8em}0 \hspace{0.8em} 0 \hspace{0.8em} 0 \hspace{0.8em} & 1 \\
 \end{array}\right]}_{4 \times 4}
 =
 \left[\begin{array}{c c c : c}
